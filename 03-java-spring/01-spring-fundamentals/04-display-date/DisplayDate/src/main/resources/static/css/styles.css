@@ -1,0 +1,31 @@
+@charset "ISO-8859-1";
+ *{
+
+	font-family: "Times New Roman", Times, serif;
+	background-color: wheat;
+	
+ }
+
+.select{
+	display: inline-block;
+}
+
+button{
+	background-color: darkgoldenrod;
+	color: wheat;
+	border-radius: 25px;
+}
+
+#date{ 
+
+	color: blue; /*color the date in blue.*/
+}
+
+#time{
+	color: green; /*color the time in green.*/
+}
+
+button, #date, #time, legend, a{
+	font-size: 36px;
+	text-align: center;
+}

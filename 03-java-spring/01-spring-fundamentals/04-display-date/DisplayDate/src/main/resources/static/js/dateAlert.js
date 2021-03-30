@@ -1,0 +1,4 @@
+/**
+ * 
+ */
+alert("DATE TEMPLATE");
