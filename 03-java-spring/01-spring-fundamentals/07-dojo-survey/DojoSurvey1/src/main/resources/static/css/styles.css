@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+
+.container{
+	border: 2px solid black;
+	padding: 20px;
+}
+
+legend{
+	color: purple;
+	font-size: 40px;
+	font-weight: bold;
+}
+
+button{
+	background-color: teal;
+	color: white;
+}
