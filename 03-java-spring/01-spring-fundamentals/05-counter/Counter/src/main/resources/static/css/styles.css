@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+
+
+.container{
+	background: purple;
+	border-radius: 15px;
+	text-align: center;
+	padding: 5px;
+}
+
+h1, h3{
+	color: yellow;
+}
+
+a{
+	color: cyan;
+}
+
+button{
+	background-color: red;
+	color: white;
+	border-radius: 10px;
+	margin-bottom: 20px;
+}
