@@ -1,0 +1,39 @@
+@charset "ISO-8859-1";
+
+body {
+	background-color: darkseagreen;
+}
+
+h2{
+	color: darkgoldenrod;
+}
+
+.location {
+	padding: 10px;
+	display: inline-block;
+	text-align: center;
+}
+
+.location, .activities{
+	border: 5px solid darkgoldenrod;
+}
+
+.activities {
+	width: 800px;
+	overflow-y: auto;
+	max-height: 300px;
+}
+
+.red {
+	color: red;
+}
+
+.green {
+	color: green;
+}
+
+button{
+	background-color: darkgoldenrod;
+	color: white;
+	border-radius: 20px;
+}
