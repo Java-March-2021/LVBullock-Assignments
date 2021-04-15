@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+
+.container{
+	background-color: lightgrey;
+	border-radius: 25px;
+	margin: 30px;
+	padding: 20px;
+	
+}
+
+.text{
+	display: inline-block;
+	vertical-align: text-top;
+	padding: 30px;
+	margin-left: 120px;
+	border-radius: 25px;
+}
